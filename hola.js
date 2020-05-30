@@ -1,1 +1,1 @@
-window.print("Hola mundo")
+document.write("HolaMundo")
