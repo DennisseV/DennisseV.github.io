@@ -1,1 +1,3 @@
-document.write("Hola mundo")
+<script>
+alert( '¡Hola, Mundo!' );
+</script>
