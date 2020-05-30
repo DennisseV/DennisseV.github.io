@@ -1,3 +1,1 @@
-<SCRIPT  language=JavaScript> 
-  window.log("Hola Mundo")
-</SCRIPT>
+window.log("Hola Mundo")
